@@ -1,6 +1,6 @@
 # GUI
-Simple Python Graphical User Interface Application<br><br>
-List of Installation Commands<br>
-python get-pip.py <br>
-pip install serial  <br>  
-pip install serial_device2<br>
+Simple Python Graphical User Interface Application<br>
+<b>List of Installation Commands</b><br>
+python get-pip.py<br>
+pip install serial<br>
+pip install serial_device2
